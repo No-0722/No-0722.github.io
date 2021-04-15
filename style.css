@@ -1,0 +1,31 @@
+body {
+    background: black;
+    font-family: courier new;
+    text-align: center;
+}
+h1 {
+    color: red;
+    font-size: 32px;
+    font-family: 'Pacifico', cursive;
+}
+h2, h3 {
+    color: white;
+    font-size: 28px;
+    font-family : 'Pacifico', cursive;
+}
+p, ul, ol {
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+a:hover {
+    color: brown;
+}
+a, a:hover {
+    text-decoration: none;
+}
